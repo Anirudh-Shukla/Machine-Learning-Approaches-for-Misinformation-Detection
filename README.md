@@ -55,13 +55,17 @@ The data collected were cleaned and processed, however, the punctuations and mis
 ![image](https://github.com/Anirudh-Shukla/Machine-Learning-Approaches-for-Misinformation-Detection/assets/136250552/f959169a-ab11-471b-ae36-0e576490a218)
 
 Data Pre- Processing
- 
+
+
 Here we will try to make the given data-set efficient for the ML model. For that we will carry out a series of process which will make the data-set perfect for building a ML model. This series of process includes,
  
-	Collection of basic statistical data.
-	Exploratory data analysis.
-	Text Data Pre-Processing.
-	Text Data Vectorization.
+1. Collection of basic statistical data.
+
+2. Exploratory data analysis.
+
+3. Text Data Pre-Processing.
+
+4. Text Data Vectorization.
  
 By following these processes we can achieve a more efficient data-set. We will use Python through Jupyter notebook for data processing. Also we will use Libraries such as Pandas, Numpy for Analysis and Matplotlib, seaborn for visualization. 
 
