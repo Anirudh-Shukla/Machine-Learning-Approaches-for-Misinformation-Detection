@@ -66,7 +66,8 @@ Here we will try to make the given data-set efficient for the ML model. For that
 3. Text Data Pre-Processing.
 
 4. Text Data Vectorization.
- 
+
+
 By following these processes we can achieve a more efficient data-set. We will use Python through Jupyter notebook for data processing. Also we will use Libraries such as Pandas, Numpy for Analysis and Matplotlib, seaborn for visualization. 
 
 
