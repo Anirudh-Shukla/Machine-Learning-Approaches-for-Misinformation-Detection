@@ -18,7 +18,7 @@ Windows / Linux /Mac OS
 
 Tools, Libraries and Packages used
 
-1.Anaconda Navigator.
+1. Anaconda Navigator.
 
 2. Jupyter Notebook.
 
